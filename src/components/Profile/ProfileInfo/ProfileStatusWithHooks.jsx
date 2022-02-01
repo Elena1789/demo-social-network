@@ -28,7 +28,7 @@ const onStatusChange = (e) => {
             <div>
                 { !editMode && 
                     <div>
-                        <span onDoubleClick={activateEditMode}>{ props.status || "-----"}</span>
+                        <b>status:</b><span onDoubleClick={activateEditMode}>{ props.status || "-----"}</span>
                     </div>
                 }
                 {editMode &&
