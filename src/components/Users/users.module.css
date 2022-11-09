@@ -1,0 +1,20 @@
+.userPhoto {
+    width: 70px;
+    height: 70px;
+    margin: 5px;
+}
+
+.followUnfollowButton {
+    background-color: #797A7E;
+  border: none;
+  color: #fff;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+

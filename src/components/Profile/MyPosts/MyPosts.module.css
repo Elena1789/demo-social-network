@@ -1,0 +1,22 @@
+.postsBlock {
+    padding: 10px;
+}
+
+
+.posts {
+margin-top: 10px;
+}
+
+.addPostButton{
+    background-color: #797A7E;
+  border: none;
+  color: #fff;
+  padding: 8px 18px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 8px;
+}

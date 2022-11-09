@@ -1,0 +1,32 @@
+.header {
+  grid-area: h;
+  background-color: #767C77;
+}
+
+.header img {
+  width: 45px;
+  margin: 10px;
+}
+
+.loginBlock {
+  float:right;
+  
+}
+
+.loginBlock a {
+  color: white;
+}
+
+.logButton {
+  background-color: #fff;
+border: none;
+color: #797A7E;
+padding: 8px 18px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 12px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 8px;
+}
